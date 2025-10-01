@@ -4,7 +4,7 @@ function somar(a, b) {
 
 function contador(inicio, fim) {
     let resultado = [];
-    for (let i = inicio; i <= fim; i + 1) { 
+    for (let i = inicio; i <= fim; i++) { 
         resultado.push(i);
     }
     return resultado;
