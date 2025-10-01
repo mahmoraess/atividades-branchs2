@@ -23,3 +23,5 @@ console.log("Soma (2+3):", somar(2, 3));
 console.log("Contador (1 a 5):", contador(1, 5)); 
 console.log("Palíndromo 'arara':", palindromo("arara")); 
 console.log("Palíndromo 'casa':", palindromo("casa")); 
+
+//PR revisor
