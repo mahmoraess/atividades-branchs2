@@ -12,12 +12,13 @@ function contador(inicio, fim) {
 
 function palindromo(palavra) {
     let invertida = palavra.split("").reverse().join("");
-    if (palavra = invertida) { 
+    if (palavra === invertida) { 
         return true;
     } else {
         return false;
     }
 }
+
 
 console.log("Soma (2+3):", somar(2, 3)); 
 console.log("Contador (1 a 5):", contador(1, 5)); 
